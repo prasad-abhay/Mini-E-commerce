@@ -49,6 +49,7 @@ A simple **React-based e-commerce UI** demonstrating React fundamentals, state m
 ---
 
 ## 📂 Project Structure
+```
 src/
 ├── components/
 │    ├── Cart.jsx
@@ -62,16 +63,17 @@ src/
 │    └── useProducts.js
 ├── App.jsx
 └── index.css
-
+```
 ---
 
 ## 💻 Getting Started
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ecommerce-app.git
+git clone https://github.com/prasad-abhay/Mini-E-commerce.git
 cd ecommerce-app
 npm install
 npm run dev
 ```
+## open http://localhost:5173￼ in your browser.
 
