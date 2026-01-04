@@ -1,0 +1,10 @@
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.cart-item input {
+  width: 50px;
+}
